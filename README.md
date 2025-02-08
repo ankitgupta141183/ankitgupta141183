@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ankit Gupta</h1>
-<h3 align="center">A passionate full stack and mobile app developer from India</h3>
+<h3 align="center">A passionate Mobile app developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ankitgupta141183&label=Profile%20views&color=0e75b6&style=flat" alt="ankitgupta141183" /> </p>
 
@@ -7,11 +7,11 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🌱 I’m currently learning **New JavaScript Frameworks**
+- 🌱 I’m currently learning **New AI Technologies**
 
-- 👯 I’m looking to collaborate on **Full stack and mobile app projects**
+- 👯 I’m looking to collaborate on **Mobile app projects**
 
-- 💬 Ask me about **Ruby on Rails, React, Node, Angular, Vue.js, Flutter, Nest.js, React Native, AWS, Heroku, Docker, Devops**
+- 💬 Ask me about **Mobile App Development, Flutter, Android, iOS, React Native, AWS, Heroku, Docker, DevOps**
 
 - ⚡ Fun fact **I always look for something new things to explore.**
 
